@@ -1,0 +1,8 @@
+prefix=/home/abhibhagwat/catkin_auefinals/devel
+
+Name: turtlebot3_auefinals
+Description: Description of turtlebot3_auefinals
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/abhibhagwat/catkin_auefinals/devel
+
+Name: people_tracker_tc
+Description: Description of people_tracker_tc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
