@@ -54,7 +54,10 @@ Once the line finishes, the turtlebot shall detect the human and then starts fol
 
 ## Contributors
 Abhishek  Bhagwat <bhagwat@clemson.edu>
+
 Bhooshan Deshpande
+
 Andrew Barnett
+
 Narhari Rahul Malayanur
 
