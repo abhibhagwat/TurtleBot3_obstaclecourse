@@ -3,6 +3,8 @@
 
 The contents of this package include the Gazebo implementations of the following tasks. This package is intended to run on its own, and therefore requires no additional input from the user (until the final task, human tracking).
 
+![odom spheres_R2-01](https://user-images.githubusercontent.com/60145680/109936629-1ab8e780-7c9c-11eb-817a-37a5b4a9cea6.png)
+
 The tasks performed in the project are - 
 1. Wall following 
 2. Obstacle avoidance
